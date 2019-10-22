@@ -5,7 +5,7 @@ EasyProcess==0.2.3
 entrypoint2==0.0.6
 olefile==0.44
 packaging==16.8
-Pillow==4.1.0
+Pillow==6.2.0
 pyparsing==2.2.0
 pyscreenshot==0.4.2
 requests==2.13.0
